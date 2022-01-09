@@ -1,0 +1,81 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h3 class="titulo"><b>Projeto Final Formação MS-DEV Ocean</b></h3>
+    <h5><b>Documentação do Projeto Elevador</b></h5>
+</div>
+
+<div id="intro">
+    <br />
+    <h3><b>Introdução</b></h3>
+    <p>O projeto elevador foi desenvolvido com o intuito de aplicar na prática os conhecimentos adquiridos ao longo da Formação MS-DEV da Ocean. Ele consiste em um aplicativo de console cuja função é simular o gerenciamento de um elevador.</p>
+    <br />
+</div>
+
+<div id="espec">
+    <h3><b>Especificações</b></h3>
+    <ul>
+        <li>Para a criação do Console App foi utilizada a linguagem C# e a estrutura .NET 5</li>
+        <li>Essa documentação foi construída em um Aplicativo Web do ASP.NET Core(MVC), também utilizando a estrutura .NET 5</li>
+    </ul>
+    <br />
+</div>
+
+<div id="func">
+    <h3><b>Funcionalidades</b></h3>
+    <h5><b>Estrutura</b></h5>
+    <ul>
+        <li>O projeto tem uma classe chamada Elevador, contendo a lógica da aplicação</li>
+        <li>Essa classe possui 4 atributos: andar atual, total de andares, capacidade do elevador e quantidade de pessoas</li>
+        <li>Ao iniciar o console app, o usuário deve informar o total de andares do prédio e a capacidade do elevador</li>
+        <li>A partir disso, é instanciado um objeto elevador que retorna todos os valores dos atributos</li>
+        <li>O usuário deve através do menu que contêm 5 opções, escolher e digitar o número correspondente a ação que deseja realizar</li>
+        <li>O método é executado e retornado na tela o valor do andar atual e a quantidade de pessoas no elevador de forma atualizada</li>
+        <li>Caso o usuário digite uma opção que não esteja no menu, aparecerá uma mensagem na tela para escolher uma opção válida</li>
+        <li>O aplicativo finaliza quando o usuário escolhe a opção encerrar no menu</li>
+        <br />
+
+        <li class="imagem">
+            <img src="~/img/menu.png" alt="Menu" />
+        </li>
+        <br />
+
+        <li class="imagem">
+            <img src="~/img/opcao-invalida.png" alt="Opção Inválida" />
+        </li>
+        <br />
+
+        <li class="imagem">
+            <img src=~/img/encerrar.png alt="Encerrar Console App" />
+        </li>
+    </ul>
+    <br />
+
+    <h5><b>Métodos</b></h5>
+    <ul>
+        <li><b>Entrar:</b> Se a quantidade de pessoas for menor que a capacidade de pessoas do elevador, acrescenta uma pessoa no elevador. Caso contrário, informa que o elevador está cheio.</li>
+        <li class="imagem">
+            <img src="~/img/metodo-entrar.png" alt="Método Entrar" />
+        </li>
+        <br />
+
+        <li><b>Sair:</b> Se a quantidade de pessoas for diferente de 0, ou seja, vazio, retira uma pessoa do elevador. Caso contrário, informa que o elevador está vazio.</li>
+        <li class="imagem">
+            <img src="~/img/metodo-sair.png" alt="Método Sair" />
+        </li>
+        <br />
+
+        <li><b>Subir:</b> Se o andar atual for menor que o total de andares, sobe um andar. Caso contrário, informa que não é possível subir.</li>
+        <li class="imagem">
+            <img src="~/img/metodo-subir.png" alt="Método Subir" />
+        </li>
+        <br />
+
+        <li><b>Descer:</b> Se o andar atual for diferente de 0, ou seja, o terréo, desce um andar. Caso contrário, informa que não é possível descer.</li>
+        <li class="imagem">
+            <img src="~/img/metodo-descer.png" alt="Método Descer" />
+        </li>
+    </ul>
+</div>

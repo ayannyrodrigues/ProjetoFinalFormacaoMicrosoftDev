@@ -1,0 +1,16 @@
+E:\CURSO-CSHARP\formacao-dev-ms\projeto-final-formacao-ms\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.exe
+E:\CURSO-CSHARP\formacao-dev-ms\projeto-final-formacao-ms\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.deps.json
+E:\CURSO-CSHARP\formacao-dev-ms\projeto-final-formacao-ms\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.runtimeconfig.json
+E:\CURSO-CSHARP\formacao-dev-ms\projeto-final-formacao-ms\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.runtimeconfig.dev.json
+E:\CURSO-CSHARP\formacao-dev-ms\projeto-final-formacao-ms\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.dll
+E:\CURSO-CSHARP\formacao-dev-ms\projeto-final-formacao-ms\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ref\ProjetoElevador.dll
+E:\CURSO-CSHARP\formacao-dev-ms\projeto-final-formacao-ms\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.pdb
+E:\CURSO-CSHARP\formacao-dev-ms\projeto-final-formacao-ms\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.csproj.AssemblyReference.cache
+E:\CURSO-CSHARP\formacao-dev-ms\projeto-final-formacao-ms\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO-CSHARP\formacao-dev-ms\projeto-final-formacao-ms\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.AssemblyInfoInputs.cache
+E:\CURSO-CSHARP\formacao-dev-ms\projeto-final-formacao-ms\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.AssemblyInfo.cs
+E:\CURSO-CSHARP\formacao-dev-ms\projeto-final-formacao-ms\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.csproj.CoreCompileInputs.cache
+E:\CURSO-CSHARP\formacao-dev-ms\projeto-final-formacao-ms\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.dll
+E:\CURSO-CSHARP\formacao-dev-ms\projeto-final-formacao-ms\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ref\ProjetoElevador.dll
+E:\CURSO-CSHARP\formacao-dev-ms\projeto-final-formacao-ms\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.pdb
+E:\CURSO-CSHARP\formacao-dev-ms\projeto-final-formacao-ms\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.genruntimeconfig.cache
